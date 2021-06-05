@@ -3,6 +3,7 @@
 - I'm working on developing a free and democratic world.
 - I'm collaborating on [OrbitDB](https://github.com/orbitdb)
 - Ask me about peer-to-peer systems and I might have a lot of opinions and little knowledge.
+- 📫 How to reach me: [csdummi.misquality@simplelogin.co](mailto:csdummi.misquality@simplelogin.co)
 
 <!--
 **CSDUMMI/CSDUMMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
