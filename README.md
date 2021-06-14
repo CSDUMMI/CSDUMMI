@@ -5,6 +5,10 @@
 - Ask me about peer-to-peer systems and I might have a lot of opinions and little knowledge.
 - 📫 How to reach me: [csdummi.misquality@simplelogin.co](mailto:csdummi.misquality@simplelogin.co)
 
+Monero:
+
+![monero:49wXJMEa1YaKHtuGyguk2Bak8WFLq6Aw5DiZiqVV1v2GbXV1mcs9JzaQS7tN6go9u9i2GDSvt2r3AeejDsoF5RsbRwtV2s5](./XMR.png)
+
 <!--
 **CSDUMMI/CSDUMMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
