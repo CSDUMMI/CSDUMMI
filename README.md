@@ -2,6 +2,7 @@
 - I'm collaborating on [OrbitDB](https://github.com/orbitdb)
 - Ask me about peer-to-peer systems and I might have a lot of opinions and little knowledge.
 - 📫 How to reach me: [csdummi.misquality@simplelogin.co](mailto:csdummi.misquality@simplelogin.co) [PGP](./PublicKey.pgp)
+- I'm working on GitLab by default: [GitLab - CSDUMMI](https://gitlab.com/csdummi)
 
 Monero
 
