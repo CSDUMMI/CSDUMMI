@@ -5,7 +5,7 @@
 - I'm working on GitLab by default: [GitLab - CSDUMMI](https://gitlab.com/csdummi)
 - I'm looking for a part-time job programming. If you are interested, E-Mail me at the Address above.
 
-Monero: 49wXJMEa1YaKHtuGyguk2Bak8WFLq6Aw5DiZiqVV1v2GbXV1mcs9JzaQS7tN6go9u9i2GDSvt2r3AeejDsoF5RsbRwtV2s5
+Monero: `49wXJMEa1YaKHtuGyguk2Bak8WFLq6Aw5DiZiqVV1v2GbXV1mcs9JzaQS7tN6go9u9i2GDSvt2r3AeejDsoF5RsbRwtV2s5`
 
 
 ![monero:49wXJMEa1YaKHtuGyguk2Bak8WFLq6Aw5DiZiqVV1v2GbXV1mcs9JzaQS7tN6go9u9i2GDSvt2r3AeejDsoF5RsbRwtV2s5](./XMR.png)
