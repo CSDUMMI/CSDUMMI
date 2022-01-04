@@ -1,5 +1,5 @@
 ### CSDUMMI
-<a rel="me" href="https://norden.social/@csddumi">CSDUMMI on Mastodon</a>
+<a rel="me" href="https://norden.social/@csddumi">Mastodon</a>
 
 - I'm collaborating on [OrbitDB](https://github.com/orbitdb)
 - Ask me about peer-to-peer systems and I might have a lot of opinions and little knowledge.
